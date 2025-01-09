@@ -44,9 +44,3 @@
 12. O número precisa estar no formato:
     - Usuário: `55"DDD""numero-do-usuario"`
     - Grupo: `precisará buscar via API, com o Método "GET All Groups"`
-14. Teste o envio :-)
-15. Qualquer dúvida, siga o vídeo do meu canal do youtube: https://www.youtube.com/watch?v=xgxF6CEPJws
-
-## Creditos
-https://github.com/sansaoipb/Graphical_notifications_Zabbix
-

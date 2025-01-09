@@ -13,9 +13,9 @@
 2. **Instale o sistema [WppConnect](https://wppconnect.io/pt-BR/)** para habilitar a API do WhatsApp.
    - O WppConnect permite o uso do WhatsApp em um navegador Google Chrome com NodeJS. Para mais detalhes, consulte a [documentação oficial](https://wppconnect.io/pt-BR/).
    
-3. Para configurar o sistema, execute o script disponível em [config_ambiente.sh](https://github.com/marcilioramos/alert_wpp_zabbix/blob/main/config_ambiente.sh).
+3. Para configurar o sistema, execute o script disponível em [config_ambiente.sh](https://github.com/wagnerbocchi/whatsapp-notification/blob/main/config_ambiente.sh).
 4. Após a configuração, o sistema estará acessível via URL: [http://localhost/api-docs/](http://localhost/api-docs/).
-5. Iremos importar o arquivo [postman_collection Referente a esse projeto](https://github.com/marcilioramos/alert_wpp_zabbix/blob/main/WPPConnect%20API%20REST.postman_collection.json)
+5. Iremos importar o arquivo [postman_collection Referente a esse projeto](https://github.com/wagnerbocchi/whatsapp-notification/blob/main/WPPConnect%20API%20REST.postman_collection.json)
 6. Alimente as variáveis no postman.
 7. Scaneie o QRCode com um conta valida no whatsapp
 8. Copie o token e cole no codigo que deve estar no diretorio de scripts de alertas do zabbix.
